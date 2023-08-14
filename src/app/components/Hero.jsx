@@ -1,4 +1,4 @@
-import styles from '../styles';
+import styles from '../style';
 import { discount, robot } from '../assets';
 import GetStarted from './GetStarted';
 import Image from 'next/image';
