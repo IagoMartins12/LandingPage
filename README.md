@@ -5,7 +5,7 @@ Uma landing page moderna, construida para um banco ficticio.
 <ul>
     <li> NextJs </li>
     <li> ReactJs</li>
-    <li> TypeScript </li>
+    <li> JavaScript </li>
     <li> TailwindCss </li>
 </ul>
 
